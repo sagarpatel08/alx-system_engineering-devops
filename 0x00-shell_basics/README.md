@@ -1,0 +1,1 @@
+task zero, current directory
